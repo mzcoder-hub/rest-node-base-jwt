@@ -12,12 +12,12 @@ const auth = require('../../middleware/auth');
 
 const User = require('../../models/Users');
 
-// @route    POST api/auth/email
+// @route    POST api/auth/email/register
 // @desc     Register User via Email
 // @access   Public
 
 router.post(
-	'/email',
+	'/email/register',
 	[
 		check('name', 'Name is required')
 			.not()
