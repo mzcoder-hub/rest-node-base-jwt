@@ -1,0 +1,10 @@
+{
+	"mongoURI": "mongodb://localhost:27017/snackers",
+	"jwtSecret": "ThisisSecret",
+	"clientID": "YOUR_FACEBOOK_CLIENT_ID_HERE",
+	"clientSecret": "YOUR_FACEBOOK_CLIENT_SECRET_HERE",
+	"callbackURL": "http://localhost:5000/api/auth/facebook/callback",
+	"clientIDGoogle": "YOUR_GOOGLE_CLIENT_ID_HERE",
+	"clientSecretGoogle": "YOUR_GOOGLE_CLIENT_SECRET_HERE",
+	"callbackGoogleUrl": "http://localhost:5000/api/auth/google/callback"
+}
