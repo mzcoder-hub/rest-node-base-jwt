@@ -5,7 +5,7 @@ Rest API BASE (Basic Auth social email) this is basic usage for authentication u
 
 ```cd rest-base-jwt```
 
-# Config Globar variable
+# Config Global variable
 you can change the database string and the other ClientID and Client Secret the social media on the config > default.json
 ```
  {
