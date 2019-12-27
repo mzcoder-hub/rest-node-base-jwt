@@ -1,5 +1,5 @@
 # base-auth-jwt
-Rest API BASE (Basic Auth social email) this is basic usage for authentication using email, facebook, and google
+Rest API BASE (Basic Auth social email) this is basic usage for authentication using email, facebook, and google, the database mongodb and using mongoose package
 
 ```git clone https://github.com/mzcoder-hub/rest-base-jwt.git```
 
